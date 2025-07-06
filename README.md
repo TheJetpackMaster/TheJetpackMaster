@@ -24,12 +24,12 @@ Here are a few Android apps I’ve created or contributed to:
 
 ### 🛠 My Tech Stack
 
-<p align="left">
+<p align="center">
   <!-- Core -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-34A853?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML%20Layouts-3B5998?style=for-the-badge&logo=android&logoColor=white"/>
-  
+
   <!-- Architecture -->
   <img src="https://img.shields.io/badge/MVVM-00695C?style=for-the-badge&logo=architecture&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hilt-D32F2F?style=for-the-badge&logo=dagger&logoColor=white"/>
@@ -39,12 +39,12 @@ Here are a few Android apps I’ve created or contributed to:
   <!-- Async -->
   <img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flow-StateFlow-00796B?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  
+
   <!-- Backend & APIs -->
   <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF5722?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
+
   <!-- Media & Network -->
   <img src="https://img.shields.io/badge/ExoPlayer-1B1F23?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-3333FF?style=for-the-badge&logo=webrtc&logoColor=white"/>
@@ -64,22 +64,24 @@ Here are a few Android apps I’ve created or contributed to:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJetpackMaster&layout=compact&theme=tokyonight&langs_count=6" width="47%" />
 </p>
 
-> 📊 **Note**: Includes private contributions where permitted. Total contributions for this year: **[Replace with number from GitHub profile]**
+<p align="center">
+  📊 **Note**: Private commits included in totals where allowed.  
+  🔁 Total yearly contributions: **_[Update manually from your profile]_**
+</p>
 
 ---
 
-### 🗓️ GitHub Contribution Activity (Yearly)
+### 🗓️ Contribution Overview
 
-<!-- Replaced with a working chart -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheJetpackMaster&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌍 Let’s Connect
+### 🌐 Let’s Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/TheJetpackMaster"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -92,5 +94,5 @@ Here are a few Android apps I’ve created or contributed to:
 ---
 
 <p align="center">
-  🚀 Thanks for stopping by! Let's build something amazing together.
+  🙌 Thanks for visiting! Feel free to connect, collaborate, or just say hi.
 </p>
