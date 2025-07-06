@@ -7,7 +7,6 @@
 </p>
 
 ---
----
 
 ### 💼 Projects I’ve Built
 
@@ -21,7 +20,6 @@ Here are a few Android apps I’ve created or contributed to:
 
 > 🛠 Built using Kotlin, Jetpack Compose, Firebase, WebRTC, Ktor, and more.
 
----
 ---
 
 ### 🛠 My Tech Stack
@@ -54,7 +52,6 @@ Here are a few Android apps I’ve created or contributed to:
 </p>
 
 ---
----
 
 ### 📈 GitHub Stats
 
@@ -73,7 +70,6 @@ Here are a few Android apps I’ve created or contributed to:
 </p>
 
 ---
----
 
 ### 🗓️ Contribution Overview
 
@@ -81,7 +77,6 @@ Here are a few Android apps I’ve created or contributed to:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheJetpackMaster&theme=tokyonight" />
 </p>
 
----
 ---
 
 ### 🌐 Let’s Connect
@@ -96,7 +91,6 @@ Here are a few Android apps I’ve created or contributed to:
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 ---
 
 <p align="center">
