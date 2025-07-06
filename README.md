@@ -35,8 +35,8 @@ Here are some of the apps I’ve created or contributed to:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheJetpackMaster&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJetpackMaster&theme=tokyonight" width="47%" />
 </p>
 
 ---
