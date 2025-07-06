@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there! I'm Techno World</h1>
+<h1 align="center">👋 Hey there! I'm Parvez Mayar</h1>
 <h3 align="center">Android Developer | Kotlin Enthusiast | Jetpack Compose Lover 🚀</h3>
 
 <p align="center">
